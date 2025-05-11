@@ -7,9 +7,9 @@ share the joy of heartfelt stories.
 
 So, what am I up to?
 
-- 🔭 I’m currently working on developing a business (to be updated)
-- 🌱 I’m currently learning CS, Japanese, and rock climbing
-- 📢 I’m looking to collaborate on practical problems that help people now
+- 🔭 I’m currently working on an educational game called UDUD that teaches all players how to improve rapidly in any game genre
+- 🌱 I’m currently learning CS, Japanese, and Calisthenics
+- 📢 I’m learning what I need to for running a successful, consumer oriented business
 - 📫 How to reach me: nevahl189@gmail.com (personal), brown.muindi@gmail.com (business)
 - ⚡ Fun fact: My bookshelf grows faster than I can read through (if you have any recommendations *Fiction/Finance* i'd love to add them)
 
